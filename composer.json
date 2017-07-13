@@ -1,0 +1,17 @@
+{
+  "name": "caseweb/enum-models",
+  "description": "Test package",
+  "license": "MIT",
+    "version": "1.0.1"
+  "authors": [
+    {
+      "name": "ivan galinov",
+      "email": "ivan.galinov28@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "caseweb\\EnumModels\\": "src"
+    }
+  }
+}
